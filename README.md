@@ -4,7 +4,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Puja Kumari</h1>
-<h3 align="center">A passionate frontend developer from Kolkata,India</h3>
+
+<h3 align="center">A CSE AIML student from Kolkata,India</h3>
+<h3 align="center">A passionate frontend developer and a Java Enthusiast #java #sql</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujakumari1202&label=Profile%20views&color=0e75b6&style=flat" alt="pujakumari1202" /> </p>
 
